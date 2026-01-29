@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Hopecalvin Mutharimi
 
-<!--
-**Eren-noir/Eren-noir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student | Aspiring software developer
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Java, Python, C++
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [STUDENT_SCORESHEET](https://github.com/Eren-noir/STUDENT_SCORESHEET.git) - A student score management system
+- [Invoice App](https://github.com/Eren-noir/INVOICE.git) - Simple invoice management
+- And more
+
+## 💡 About Me
+I enjoy building small projects, learning new programming languages, and sharing code on GitHub.
