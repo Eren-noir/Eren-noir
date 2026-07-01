@@ -22,10 +22,7 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,azure&perline=5)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Eren-noir&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-noir&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Eren-noir&theme=tokyonight)
+
 
 ## 🚀 Featured Projects
 
