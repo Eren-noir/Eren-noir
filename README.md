@@ -1,59 +1,25 @@
-# Hi, I'm Calvin Mutharimi 👋
+# Hi, I'm Hopecalvin Mutharimi 
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science undergraduate at Dedan Kimathi University of Technology (DeKUT), Kenya — Class of 2028
-- 📊 Building a Data Analytics & Power BI portfolio (currently working on a Global Sales Analytics Dashboard)
-- 🤖 Interested in AI/ML, backend development, and systems programming
-- ☁️ Currently pursuing the Microsoft Azure Essentials Professional Certificate
-- 🎮 Gamer and tinkerer — I like pushing older hardware further than it should go
-- ⚡ I love solving programming challenges and building small tools that actually get used
+Computer science undergraduate building toward a career in applied machine learning.
 
-## 🛠️ My Skills
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js&perline=4)](https://skillicons.dev)
-
-### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs&perline=3)](https://skillicons.dev)
-
-### Data & Analytics
-[![My Skills](https://skillicons.dev/icons?i=powerbi,mysql&perline=2)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,azure&perline=5)](https://skillicons.dev)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+## 🚀 Top Projects
+- 🤖 **[Jarvis](#)** — Python AI assistant exploring voice/command interaction and task automation
+- 🌽 **[Maize Expert System](#)** — Rule-based expert system for diagnosing maize crop issues; evolving into an LLM-powered RAG app
 
-## 🚀 Featured Projects
-
-### ⛪ Church Finance Management System
-A collaborative finance management system built with Node.js for tracking church-level financial records.
-
-### 🤖 Jarvis
-A Python-based AI assistant project exploring voice/command interaction and task automation.
-
-### 🌱 Smart Greenhouse System
-A project focused on automated environmental monitoring and control logic.
-
-### 🌽 Maize Expert System
-A rule-based expert system for diagnosing maize crop issues.
-
-### 🧠 Fuzzy Logic
-Exploration of fuzzy logic systems and their application to decision-making problems.
-
-### ⚔️ Combat AI
-An AI project modeling decision-making and behavior in a combat simulation context.
-
-### 🖼️ Image Processor
-A tool for applying image processing techniques and transformations.
-
-### 🎬 Story Animation
-An interactive animated project exploring storytelling through code.
-
-## 📚 Currently Learning
-- Power BI (DAX, Power Query, data modeling)
-- Microsoft Azure fundamentals
-- Advanced Java & backend systems design
 
 ## 🌐 Connect
 💼 LinkedIn: [linkedin.com/in/hopecalvin](https://linkedin.com/in/hopecalvin)
