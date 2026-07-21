@@ -1,5 +1,3 @@
-# Hi, I'm Hopecalvin Mutharimi 
-
 ## 👨‍💻 About Me
 Computer science undergraduate building toward a career in applied machine learning.
 
