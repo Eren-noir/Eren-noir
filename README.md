@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## About Me 👨‍💻
 Computer science undergraduate building toward a career in applied machine learning.
 
 ## 💻 Tech Stack
