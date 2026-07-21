@@ -1,7 +1,7 @@
 ## About Me 👨‍💻
 Computer science undergraduate building toward a career in applied machine learning.
 
-## 💻 Tech Stack
+## Tech Stack 💻 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -14,12 +14,12 @@ Computer science undergraduate building toward a career in applied machine learn
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 🚀 Top Projects
+## Top Projects 🚀 
 - 🤖 **[Jarvis](#)** — Python AI assistant exploring voice/command interaction and task automation
 - 🌽 **[Maize Expert System](#)** — Rule-based expert system for diagnosing maize crop issues; evolving into an LLM-powered RAG app
 
 
-## 🌐 Connect
+## Connect  🌐 
 💼 LinkedIn: [linkedin.com/in/hopecalvin](https://linkedin.com/in/hopecalvin)
 💻 GitHub: [github.com/Eren-noir](https://github.com/Eren-noir)
 
