@@ -24,6 +24,7 @@ Computer science undergraduate building toward a career in applied machine learn
 ## Top Projects 🚀 
 - 🤖 **[Jarvis](#)** — Python AI assistant exploring voice/command interaction and task automation
 - 🌽 **[Maize Expert System](#)** — Rule-based expert system for diagnosing maize crop issues; evolving into an LLM-powered RAG app
+- 🚌 [Bus-Traffic-Net] — Sparse-sensor traffic prediction: buses share partial traffic data, an LSTM/GNN reconstructs full road-network state, and routes are recalculated around predicted congestion
 
 
 ## Connect  🌐 
